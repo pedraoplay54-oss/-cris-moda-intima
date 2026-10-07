@@ -20,7 +20,7 @@ html{scroll-behavior:smooth}body{font-family:Inter,sans-serif;color:#2B2B2B;back
 <header class="sticky top-0 z-50 bg-white border-b">
 <div class="max-w-7xl mx-auto px-4"><div class="h-20 flex items-center justify-between gap-4">
 <button id="menuBtn" class="lg:hidden"><i data-lucide="menu"></i></button>
-<a href="index.html" class="leading-none shrink-0"><span class="serif text-3xl text-marsala font-semibold">Cris</span><span class="block uppercase tracking-[.28em] text-[10px] text-gray-500">Moda Íntima</span></a>
+<a href="index.html" class="leading-none shrink-0 flex items-center"><img src="logo-cris-moda-intimas.png" alt="Cris Moda Íntimas" class="h-16 sm:h-14 w-auto max-w-[190px] object-contain" loading="eager"></a>
 <nav class="hidden lg:flex items-center gap-6 text-sm"><a href="#produtos">Produtos</a><a href="#tabela-medidas">Tamanhos</a><a href="#sobre">Sobre</a><a href="#contato">Contato</a></nav>
 <div class="flex items-center gap-3"><button id="searchBtn" aria-label="Buscar"><i data-lucide="search" class="w-5"></i></button><button id="sizeBtn" aria-label="Tabela de medidas" class="hidden sm:block"><i data-lucide="ruler" class="w-5"></i></button><button id="cartBtn" aria-label="Sacola" class="relative"><i data-lucide="shopping-bag" class="w-5"></i><b id="cartCount" class="absolute -top-2 -right-2 bg-marsala text-white text-[9px] rounded-full w-4 h-4 flex items-center justify-center">0</b></button></div>
 </div><div id="searchBox" class="hidden pb-4"><input id="search" class="w-full border rounded-full px-5 py-3" placeholder="Buscar produto..."></div></div>
@@ -34,10 +34,9 @@ html{scroll-behavior:smooth}body{font-family:Inter,sans-serif;color:#2B2B2B;back
 <div id="cart" class="hidden fixed inset-0 z-[90]"><div id="cartBg" class="absolute inset-0 bg-black/50"></div><aside class="absolute right-0 top-0 h-full w-full sm:max-w-md bg-white flex flex-col"><div class="p-5 border-b flex justify-between"><h2 class="serif text-2xl">Sua sacola</h2><button id="closeCart"><i data-lucide="x"></i></button></div><div id="items" class="flex-1 overflow-auto p-5"></div><div class="border-t p-5"><div class="flex justify-between mb-4"><span>Subtotal</span><strong id="total">R$ 0,00</strong></div><button id="checkout" class="w-full bg-marsala text-white py-4">Ir para checkout</button></div></aside></div>
 <div id="toast" class="toast fixed bottom-5 left-1/2 z-[120] bg-graphite text-white px-5 py-3 rounded-full text-sm">Adicionado à sacola.</div>
 <a href="https://wa.me/5538984197926" target="_blank" rel="noopener" class="fixed right-4 bottom-4 z-40 w-12 h-12 sm:w-14 sm:h-14 rounded-full bg-[#25D366] text-white flex items-center justify-center shadow-xl"><i data-lucide="message-circle"></i></a>
-
 <script>
-document.addEventListener('change', function(e){
-  if(e.target && e.target.tagName === 'SELECT'){
+document.addEventListener('change', function(e) {
+  if (e.target && e.target.tagName === 'SELECT') {
     e.target.classList.add('size-selected');
   }
 });
