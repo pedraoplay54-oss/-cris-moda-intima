@@ -5,7 +5,7 @@
     {id:'renda-preto', name:'Conjunto Renda Elegance — Preto', price:69.99, category:'conjuntos', image:'conjunto-preto.jpeg', color:'Preto'},
     {id:'renda-vermelho', name:'Conjunto Renda Elegance — Vermelho', price:69.99, category:'conjuntos', image:'conjunto-vermelho.jpeg', color:'Vermelho'},
     {id:'renda-rosa', name:'Conjunto Renda Elegance — Rosa', price:69.99, category:'conjuntos', image:'conjunto-rosa.jpeg', color:'Rosa'},
-    {id:'coracoes-azul', name:'Conjunto Corações Azul', price:69.99, category:'conjuntos', image:'conjunto-coracoes-azul.jpeg', color:'Branco e Azul'},
+    
     {id:'calcinha-renda-strass', name:'Calcinha de Renda com Strass', price:25.00, category:'calcinhas', image:'calcinha-renda-strass.jpeg', color:'Preta, Vermelha e Rosa'}
   ];
   const sizes = ['P','M','G','GG','XGG'];
