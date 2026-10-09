@@ -50,7 +50,16 @@
     image: 'sutia-tomara-que-caia-nude.jpeg',
     color: 'Nude'
   }
-  ];
+  
+  {
+    id: 'renda-vermelho-laco',
+    name: 'Conjunto Renda Elegance — Vermelho com Laço',
+    price: 69.99,
+    category: 'conjuntos',
+    image: '90f4bd87-5a8c-4441-b812-5a36dd07ca7b_90F26563-6EFE-4F4C-A10B-EDAD3BB0834E.jpeg',
+    color: 'Vermelho'
+  },
+];
   const sizes = ['P','M','G'];
   const money = v => Number(v).toLocaleString('pt-BR',{style:'currency',currency:'BRL'});
   const load = () => { try { return JSON.parse(localStorage.getItem(CART_KEY)) || []; } catch { return []; } };
