@@ -2,11 +2,54 @@
   const WHATSAPP = '5538984197926';
   const CART_KEY = 'cris_cart_v2';
   const products = [
-    {id:'renda-preto', name:'Conjunto Renda Elegance — Preto', price:69.99, category:'conjuntos', image:'conjunto-preto.jpeg', color:'Preto'},
-    {id:'renda-vermelho', name:'Conjunto Renda Elegance — Vermelho', price:69.99, category:'conjuntos', image:'conjunto-vermelho.jpeg', color:'Vermelho'},
-    {id:'renda-rosa', name:'Conjunto Renda Elegance — Rosa', price:69.99, category:'conjuntos', image:'conjunto-rosa.jpeg', color:'Rosa'},
-    
-    {id:'calcinha-renda-strass', name:'Calcinha de Renda com Strass', price:25.00, category:'calcinhas', image:'calcinha-renda-strass.jpeg', color:'Preta, Vermelha e Rosa'}
+  {
+    id: 'renda-preto',
+    name: 'Conjunto Renda Elegance — Preto',
+    price: 69.99,
+    category: 'conjuntos',
+    image: 'conjunto-preto.jpeg',
+    color: 'Preto'
+  },
+  {
+    id: 'renda-vermelho',
+    name: 'Conjunto Renda Elegance — Vermelho',
+    price: 69.99,
+    category: 'conjuntos',
+    image: 'conjunto-vermelho.jpeg',
+    color: 'Vermelho'
+  },
+  {
+    id: 'renda-rosa',
+    name: 'Conjunto Renda Elegance — Rosa',
+    price: 69.99,
+    category: 'conjuntos',
+    image: 'conjunto-rosa.jpeg',
+    color: 'Rosa'
+  },
+  {
+    id: 'coracoes-azul',
+    name: 'Conjunto Corações Azul',
+    price: 69.99,
+    category: 'conjuntos',
+    image: 'conjunto-coracoes-azul.jpeg',
+    color: 'Azul'
+  },
+  {
+    id: 'calcinha-renda-strass',
+    name: 'Calcinha de Renda com Strass',
+    price: 25.00,
+    category: 'calcinhas',
+    image: 'calcinha-renda-strass.jpeg',
+    color: 'Preta, Vermelha e Rosa'
+  },
+  {
+    id: 'sutia-tomara-que-caia-nude',
+    name: 'Sutiã Tomara que Caia',
+    price: 47.99,
+    category: 'soutiens',
+    image: 'sutia-tomara-que-caia-nude.jpeg',
+    color: 'Nude'
+  }
   ];
   const sizes = ['P','M','G','GG','XGG'];
   const money = v => Number(v).toLocaleString('pt-BR',{style:'currency',currency:'BRL'});
