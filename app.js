@@ -55,7 +55,7 @@
   name: 'Conjunto Renda Elegance — Preto com Renda',
   price: 69.99,
   category: 'conjuntos',
-  image: '32a993dd-3d37-4d45-ae96-0aee9e8dbc64_011B9989-E301-4C5E-8044-D532403BBCA8(2).jpeg',
+  image: image: '32a993dd-3d37-4d45-ae96-0aee9e8dbc64_011B9989-E301-4C5E-8044-D532403BBCA8.jpeg',
   color: 'Preto'
   },
   {
