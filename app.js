@@ -51,7 +51,7 @@
     color: 'Nude'
   }
   ];
-  const sizes = ['P','M','G','GG','XGG'];
+  const sizes = ['P','M','G'];
   const money = v => Number(v).toLocaleString('pt-BR',{style:'currency',currency:'BRL'});
   const load = () => { try { return JSON.parse(localStorage.getItem(CART_KEY)) || []; } catch { return []; } };
   let cart = load();
