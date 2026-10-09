@@ -49,7 +49,7 @@
     category: 'soutiens',
     image: 'sutia-tomara-que-caia-nude.jpeg',
     color: 'Nude'
-  }
+  },
   
   {
     id: 'renda-vermelho-laco',
