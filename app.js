@@ -19,6 +19,14 @@
     color: 'Vermelho'
   },
   {
+    id: 'renda-Roser',
+    name: 'Conjunto — Roser',
+    price: 69.99,
+    category: 'conjuntos',
+    image: 'conjunto-Roset.jpeg',
+    color: 'Roser'
+  },
+  {
     id: 'renda-rosa',
     name: 'Conjunto — Rosa',
     price: 69.99,
