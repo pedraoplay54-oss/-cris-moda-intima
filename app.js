@@ -19,6 +19,15 @@
     color: 'Vermelho'
   },
   {
+    id: 'renda-preto',
+    name: 'Conjunto — Preto',
+    price: 69.99,
+    category: 'conjuntos',
+    image: 'Calcinha marido apressado vermelha .JPG',
+    Calcinha marido apressado onça .JPG',
+    Calcinha pega Marido.JPG',
+  },
+  {
     id: 'renda-roser',
     name: 'Conjunto — Roser',
     price: 69.99,
