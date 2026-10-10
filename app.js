@@ -4,7 +4,7 @@
   const products = [
   {
     id: 'renda-preto',
-    name: 'Conjunto Renda Elegance — Preto',
+    name: 'Conjunto — Preto',
     price: 69.99,
     category: 'conjuntos',
     image: 'conjunto-preto.jpeg',
@@ -12,7 +12,7 @@
   },
   {
     id: 'renda-vermelho',
-    name: 'Conjunto Renda Elegance — Vermelho',
+    name: 'Conjunto — Vermelho',
     price: 69.99,
     category: 'conjuntos',
     image: 'conjunto-vermelho.jpeg',
@@ -20,7 +20,7 @@
   },
   {
     id: 'renda-rosa',
-    name: 'Conjunto Renda Elegance — Rosa',
+    name: 'Conjunto — Rosa',
     price: 69.99,
     category: 'conjuntos',
     image: 'conjunto-rosa.jpeg',
@@ -52,7 +52,7 @@
   },
   {
   id: 'conjunto-preto-renda',
-  name: 'Conjunto Renda Elegance — Preto com Renda',
+  name: 'Conjunto — Preto com Renda',
   price: 69.99,
   category: 'conjuntos',
   image: '32a993dd-3d37-4d45-ae96-0aee9e8dbc64_011B9989-E301-4C5E-8044-D532403BBCA8.jpeg',
@@ -60,7 +60,7 @@
   },
   {
     id: 'renda-vermelho-laco',
-    name: 'Conjunto Renda Elegance — Vermelho com Laço',
+    name: 'Conjunto — Vermelho com Laço',
     price: 69.99,
     category: 'conjuntos',
     image: '90f4bd87-5a8c-4441-b812-5a36dd07ca7b_90F26563-6EFE-4F4C-A10B-EDAD3BB0834E.jpeg',
