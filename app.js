@@ -18,14 +18,14 @@
     image: 'conjunto-vermelho.jpeg',
     color: 'Vermelho'
   },
-  {
-    id: 'cddea188-6d3e-4dd7-8b52-cc0156fc8b17_EFC84468-AEC7-4621-A747-F283D2654A72.jpeg',
-    name: 'Conjunto — Roser',
-    price: 69.99,
-    category: 'conjuntos',
-    image: 'conjunto-Roset.jpeg',
-    color: 'Roser'
-  },
+ {
+id: 'renda-roser',
+name: 'Conjunto — Roser',
+price: 69.99,
+category: 'conjuntos',
+image: 'cddea188-6d3e-4dd7-8b52-cc0156fc8b17_EFC84468-AEC7-4621-A747-F283D2654A72.jpeg',
+color: 'Rosa pêssego'
+},
   {
     id: 'renda-roser',
     name: 'Conjunto — Roser',
