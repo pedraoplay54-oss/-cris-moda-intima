@@ -23,9 +23,9 @@
     name: 'Conjunto — Preto',
     price: 69.99,
     category: 'conjuntos',
-    image: 'Calcinha marido apressado vermelha .JPG',
-    Calcinha marido apressado onça .JPG',
-    Calcinha pega Marido.JPG',
+    image: 'Calcinha Marido apressado vermelha .JPG',
+    'Calcinha Marido apressado onça .JPG',
+    'Calcinha pega Marido.JPG',
   },
   {
     id: 'renda-roser',
