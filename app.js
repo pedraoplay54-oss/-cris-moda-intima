@@ -20,10 +20,11 @@
   },
   {
     id: 'calcinha apressadinha',
-    name: 'Calcinhas — preta,branca,rosa',
+    name: 'Calcinhas',
     price: 22.99,
     category: 'calcinhas',
     image: 'Calcinha - pega - Marido.JPG',
+    color: 'preta,branca,rosa',
   },
   {
     id: 'renda-roser',
