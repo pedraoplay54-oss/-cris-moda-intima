@@ -20,12 +20,10 @@
   },
   {
     id: 'calcinha apressadinha',
-    name: 'Calcinhas — varias cores',
+    name: 'Calcinhas — preta,branca,rosa',
     price: 22.99,
     category: 'calcinhas',
-    image: 'Calcinha- marido - apressado vermelha .JPG',
-    'Calcinha - pega - Marido.JPG',
-    'Calcinha - marido apressado - onça .JPG',
+    image: 'Calcinha - pega - Marido.JPG',
   },
   {
     id: 'renda-roser',
