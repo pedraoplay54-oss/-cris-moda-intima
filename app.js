@@ -19,7 +19,7 @@
     color: 'Vermelho'
   },
   {
-    id: 'calcinha apressadinha',
+    id: 'calcinha-apressadinha',
     name: 'Calcinhas',
     price: 22.99,
     category: 'calcinhas',
@@ -27,7 +27,7 @@
     color: 'preta,branca,rosa'
   },
   {
-    id: 'calcinha apressadinha',
+    id: 'calcinha-apressadinha',
     name: 'Calcinhas',
     price: 22.99,
     category: 'calcinhas',
