@@ -35,6 +35,14 @@
     color: 'Azul'
   },
   {
+    id: 'renda-preto',
+    name: 'Conjunto — Preto',
+    price: 69.99,
+    category: 'conjuntos',
+    image: 'Conjunto preto com renda .JPG',
+    color: 'Preto'
+  },
+  {
     id: 'calcinha-renda-strass',
     name: 'Calcinha de Renda com Strass',
     price: 25.00,
