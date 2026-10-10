@@ -27,14 +27,6 @@
     color: 'preta,branca,rosa'
   },
   {
-    id: 'calcinha-apressadinha',
-    name: 'Calcinhas',
-    price: 22.99,
-    category: 'calcinhas',
-    image: 'Calcinha - marido apressado - onça.JPG',
-    color: 'animal'
-  },
-  {
     id: 'renda-roser',
     name: 'Conjunto — Roser',
     price: 69.99,
