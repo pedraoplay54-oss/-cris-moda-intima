@@ -10,6 +10,14 @@
     image: 'Conjunto preto com renda .JPG',
     color: 'Preto'
   },
+   {
+    id: 'Conjunto-animal-print',
+    name: 'Conjunto animal print',
+    price: 69.99,
+    category: 'conjuntos',
+    image: 'Conjunto-animal-print.JPG',
+    color: 'animal'
+  },
   {
     id: 'renda-vermelho',
     name: 'Conjunto — Vermelho',
