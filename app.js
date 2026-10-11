@@ -19,6 +19,14 @@
     color: 'Vermelho'
   },
   {
+    id: 'Conjunto Inglaterra ',
+    name: 'Conjunto — vermelho',
+    price: 69.99,
+    category: 'conjuntos',
+    image: 'Conjunto-Inglaterra .JPG',
+    color: 'vermelho'
+  },
+  {
     id: 'conjunto animal',
     name: 'Conjunto — animal',
     price: 69.99,
