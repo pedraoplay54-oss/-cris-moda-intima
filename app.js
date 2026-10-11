@@ -63,7 +63,7 @@
     name: 'Conjunto — Preto',
     price: 69.99,
     category: 'conjuntos',
-    image: 'conjunto-preto.jpeg
+    image: 'conjunto-preto.jpeg',
     color: 'Preto'
   },
   {
