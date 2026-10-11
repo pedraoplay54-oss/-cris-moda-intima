@@ -138,6 +138,14 @@
     image: 'calcinha-renda-strass.jpeg',
     color: 'Preta, Vermelha e Rosa'
   },
+  {
+    id: 'Calcinha-Renda-Premium',
+    name: 'Calcinha-Renda-Premium',
+    price: 14.99,
+    category: 'calcinha',
+    image: 'Calcinha-Renda-Premium .JPG',
+    color: 'azul bebê,animal print,rosa pink,nude,vermelho'
+  },
   ];
   const sizes = ['P','M','G'];
   const money = v => Number(v).toLocaleString('pt-BR',{style:'currency',currency:'BRL'});
