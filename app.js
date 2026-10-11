@@ -91,14 +91,6 @@
     color: 'Nude'
   },
   {
-    id: 'Sutiã-Tomara-que-caia',
-    name: 'Sutiã Basico',
-    price: 47.99,
-    category: 'soutiens',
-    image: 'Sutiã-Tomara-que-caia.JPG',
-    color: 'Nude'
-  },
-  {
     id: 'calcinha-apressadinha',
     name: 'Calcinhas',
     price: 22.99,
