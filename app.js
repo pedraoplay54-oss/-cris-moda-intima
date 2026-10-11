@@ -92,7 +92,7 @@
   },
   {
     id: 'Sutiã-Tomara-que-caia',
-    name: 'Sutiã Tomara que caia',
+    name: 'Sutiã Basico',
     price: 47.99,
     category: 'soutiens',
     image: 'Sutiã-Tomara-que-caia.JPG',
