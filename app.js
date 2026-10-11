@@ -31,7 +31,7 @@
     name: 'Calcinha — Marido Apressado Onça',
     price: 22.99,
     category: 'calcinhas',
-    image: 'Calcinha - marido apressado - onça.JPG',
+    image: 'Calcinha - marido apressado - onça .JPG',
     color: 'Animal'
   },
   {
