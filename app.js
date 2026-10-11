@@ -131,6 +131,14 @@
     color: 'Vermelha'
   },
   {
+    id: 'Calcinha-Regulável ’,
+    name: ‘Calcinha-Regulável',
+    price: 22,99,
+    category: 'calcinhas',
+    image: 'Calcinha-Regulável .JPG',
+    color: 'Preto,vermelho'
+  },
+  {
     id: 'calcinha-renda-strass',
     name: 'Calcinha de Renda com Strass',
     price: 25.00,
