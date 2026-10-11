@@ -83,14 +83,6 @@
     color: 'Rosa pêssego'
   },
   {
-    id: 'coracoes-azul',
-    name: 'Conjunto Corações Azul',
-    price: 69.99,
-    category: 'conjuntos',
-    image: 'conjunto-coracoes-azul.jpeg',
-    color: 'Azul'
-  },
-  {
     id: 'conjunto-preto-com-renda',
     name: 'Conjunto — Preto',
     price: 69.99,
