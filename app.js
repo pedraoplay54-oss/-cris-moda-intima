@@ -57,6 +57,14 @@
     category: 'conjuntos',
     image: 'Conjunto-animal .JPG',
     color: 'animal'
+  }, 
+  {
+    id: 'Conjunto-Helena-Luxo',
+    name:  'Conjunto Helena Luxo',
+    price: 69.99,
+    category: 'conjuntos',
+    image: 'Conjunto-Helena-Luxo .JPG',
+    color: 'Preto'
   },
   {
     id: 'renda-roser',
