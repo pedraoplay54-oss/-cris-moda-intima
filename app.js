@@ -99,6 +99,14 @@
     color: 'Vermelho'
   },
   {
+    id: 'Tomara-que-caia',
+    name: 'Tomara-que-caia',
+    price: 47.99,
+    category: 'sutiã ',
+    image: 'Tomara-que-caia.JPG',
+    color: 'nude'
+  },
+  {
     id: 'sutia-tomara-que-caia-nude',
     name: 'Sutiã Basico',
     price: 54.99,
