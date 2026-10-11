@@ -126,7 +126,11 @@
   }
   function card(p){
     return `<article class="card product border bg-white p-3" data-category="${p.category}" data-search="${p.name.toLowerCase()} ${p.color.toLowerCase()}">
-      <a href="produto.html?produto=${encodeURIComponent(p.id)}"><div class="relative bg-rose/20 aspect-[3/4] overflow-hidden"><img class="w-full h-full object-cover" src="${p.image}" alt="${p.name}" loading="lazy"></div></a>
+      <a href="produto.html?produto=${encodeURIComponent(p.id)}"><div class="relative bg-rose/20 aspect-[3/4] overflow-hidden"><img <img class="w-full h-full object-cover"
+     src="${p.image}"
+     alt="${p.name}"
+     loading="lazy"
+     onerror="this.onerror=null;this.src='https://www.crismodaintima22.com.br/'+encodeURIComponent(this.getAttribute('src'));">
       <div class="pt-4"><p class="text-[10px] uppercase tracking-widest text-gray-400">${p.category==='calcinhas'?'Calcinhas':'Conjuntos'}</p><h3 class="serif text-lg mt-1">${p.name}</h3><p class="text-xs text-gray-500 mt-1">${p.color}</p><strong class="block mt-3 text-lg">${money(p.price)}</strong>
       <div class="mt-3"><p class="text-xs font-semibold mb-2">Escolha o tamanho:</p><div class="flex flex-wrap gap-2">${sizes.map(s=>`<button class="size-choice border px-3 py-2 text-xs" data-id="${p.id}" data-size="${s}">${s}</button>`).join('')}</div></div>
       <button class="buy mt-4 w-full bg-marsala text-white py-3 text-xs uppercase tracking-wider" data-id="${p.id}" data-size="P">Comprar</button></div></article>`;
