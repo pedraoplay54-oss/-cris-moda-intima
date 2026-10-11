@@ -19,6 +19,14 @@
     color: 'Vermelho'
   },
   {
+    id: 'conjunto animal',
+    name: 'Conjunto — animal',
+    price: 69.99,
+    category: 'conjuntos',
+    image: 'Conjunto-animal .JPG',
+    color: 'animal'
+  },
+  {
     id: 'calcinha-apressadinha',
     name: 'Calcinhas',
     price: 22.99,
