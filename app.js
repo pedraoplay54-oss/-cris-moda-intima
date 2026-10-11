@@ -9,8 +9,16 @@
     category: 'conjuntos',
     image: 'Conjunto preto com renda .JPG',
     color: 'Preto'
+  }, 
+  {
+    id: 'Conjunto-Vermelho com strass',
+    name: 'Conjunto-Vermelho com strass',
+    price: 69.99,
+    category: 'conjuntos',
+    image: 'Conjunto-Vermelho com strass .JPG',
+    color: 'Vermelho'
   },
-   {
+  {
     id: 'Conjunto-animal-print',
     name: 'Conjunto animal print',
     price: 69.99,
