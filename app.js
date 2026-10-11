@@ -39,7 +39,7 @@
     name: 'Calcinha — Marido Apressado Vermelha',
     price: 22.99,
     category: 'calcinhas',
-    image: 'Calcinha marido apressado vermelha.JPG',
+    image: 'Calcinha marido apressado vermelha .JPG',
     color: 'Vermelha'
   },
   {
