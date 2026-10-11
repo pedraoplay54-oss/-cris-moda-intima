@@ -134,7 +134,7 @@
     id: 'Calcinha-Regulável ',
     name: 'Calcinha-Regulável',
     price: 22,99,
-    category: 'calcinhas',
+    category: 'calcinha',
     image: 'Calcinha-Regulável .JPG',
     color: 'Preto,vermelho'
   },
