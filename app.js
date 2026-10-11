@@ -20,7 +20,7 @@
   },
   {
     id: 'Conjunto Inglaterra ',
-    name: 'Conjunto — vermelho',
+    name: 'Conjunto — Inglaterra',
     price: 69.99,
     category: 'conjuntos',
     image: 'Conjunto-Inglaterra .JPG',
