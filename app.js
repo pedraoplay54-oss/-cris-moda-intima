@@ -43,14 +43,6 @@
     color: 'Vermelha'
   },
   {
-    id: 'calcinha-pega-marido',
-    name: 'Calcinha — Pega Marido',
-    price: 22.99,
-    category: 'calcinhas',
-    image: 'Calcinha - pega - Marido.JPG',
-    color: 'Conforme a foto'
-  },
-  {
     id: 'renda-roser',
     name: 'Conjunto — Roser',
     price: 69.99,
