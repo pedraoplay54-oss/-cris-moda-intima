@@ -91,14 +91,6 @@
     color: 'Nude'
   },
   {
-    id: 'Sutiã-Tomara que cai',
-    name: 'Sutiã Tomara que caia',
-    price: 47.99,
-    category: 'sutiã',
-    image: 'Sutiã-Tomara que cai .JPG',
-    color: 'Nude'
-  },
-  {
     id: 'calcinha-apressadinha',
     name: 'Calcinhas',
     price: 22.99,
