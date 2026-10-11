@@ -85,9 +85,17 @@
   {
     id: 'sutia-tomara-que-caia-nude',
     name: 'Sutiã Basico',
-    price: 47.99,
+    price: 54.99,
     category: 'soutiens',
     image: 'sutia-tomara-que-caia-nude.jpeg',
+    color: 'Nude'
+  },
+  {
+    id: 'Sutiã-Tomara que cai',
+    name: 'Sutiã-Tomara que cai',
+    price: 47.99,
+    category: 'sutiã',
+    image: 'Sutiã-Tomara que cai .JPG',
     color: 'Nude'
   },
   {
