@@ -67,7 +67,7 @@
     color: 'Azul'
   },
   {
-    id: 'renda-preto',
+    id: 'conjunto-preto-com-renda',
     name: 'Conjunto — Preto',
     price: 69.99,
     category: 'conjuntos',
