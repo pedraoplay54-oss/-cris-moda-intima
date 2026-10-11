@@ -94,7 +94,7 @@
     id: 'Sutiã-Tomara-que-caia',
     name: 'Sutiã-Tomara-que-caia',
     price: 47.99,
-    category: 'sutiã',
+    category: 'soutiens',
     image: 'Sutiã-Tomara-que-caia.JPG',
     color: 'Nude'
   },
