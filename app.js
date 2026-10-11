@@ -27,6 +27,30 @@
     color: 'preta,branca,rosa'
   },
   {
+    id: 'calcinha-apressadinha-onca',
+    name: 'Calcinha — Marido Apressado Onça',
+    price: 22.99,
+    category: 'calcinhas',
+    image: 'Calcinha - marido apressado - onça.JPG',
+    color: 'Animal'
+  },
+  {
+    id: 'calcinha-apressadinha-vermelha',
+    name: 'Calcinha — Marido Apressado Vermelha',
+    price: 22.99,
+    category: 'calcinhas',
+    image: 'Calcinha marido apressado vermelha.JPG',
+    color: 'Vermelha'
+  },
+  {
+    id: 'calcinha-pega-marido',
+    name: 'Calcinha — Pega Marido',
+    price: 22.99,
+    category: 'calcinhas',
+    image: 'Calcinha - pega - Marido.JPG',
+    color: 'Conforme a foto'
+  },
+  {
     id: 'renda-roser',
     name: 'Conjunto — Roser',
     price: 69.99,
