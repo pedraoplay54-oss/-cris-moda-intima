@@ -51,30 +51,6 @@
     color: 'animal'
   },
   {
-    id: 'calcinha-apressadinha',
-    name: 'Calcinhas',
-    price: 22.99,
-    category: 'calcinhas',
-    image: 'Calcinha - pega - Marido.JPG',
-    color: 'preta,branca,rosa'
-  },
-  {
-    id: 'calcinha-apressadinha-onca',
-    name: 'Calcinha — Marido Apressado Onça',
-    price: 22.99,
-    category: 'calcinhas',
-    image: 'calcinha-onca.jpg.JPG',
-    color: 'Animal'
-  },
-  {
-    id: 'calcinha-apressadinha-vermelha',
-    name: 'Calcinha — Marido Apressado Vermelha',
-    price: 22.99,
-    category: 'calcinhas',
-    image: 'Calcinha marido apressado vermelha .JPG',
-    color: 'Vermelha'
-  },
-  {
     id: 'renda-roser',
     name: 'Conjunto — Roser',
     price: 69.99,
@@ -89,14 +65,6 @@
     category: 'conjuntos',
     image: 'conjunto-preto.jpeg',
     color: 'Preto'
-  },
-  {
-    id: 'calcinha-renda-strass',
-    name: 'Calcinha de Renda com Strass',
-    price: 25.00,
-    category: 'calcinhas',
-    image: 'calcinha-renda-strass.jpeg',
-    color: 'Preta, Vermelha e Rosa'
   },
   {
     id: 'sutia-tomara-que-caia-nude',
@@ -121,6 +89,38 @@
     category: 'conjuntos',
     image: '90f4bd87-5a8c-4441-b812-5a36dd07ca7b_90F26563-6EFE-4F4C-A10B-EDAD3BB0834E.jpeg',
     color: 'Vermelho'
+  },
+  {
+    id: 'calcinha-apressadinha',
+    name: 'Calcinhas',
+    price: 22.99,
+    category: 'calcinhas',
+    image: 'Calcinha - pega - Marido.JPG',
+    color: 'preta,branca,rosa'
+  },
+  {
+    id: 'calcinha-apressadinha-onca',
+    name: 'Calcinha — Marido Apressado Onça',
+    price: 22.99,
+    category: 'calcinhas',
+    image: 'calcinha-onca.jpg.JPG',
+    color: 'Animal'
+  }, 
+  {
+    id: 'calcinha-apressadinha-vermelha',
+    name: 'Calcinha — Marido Apressado Vermelha',
+    price: 22.99,
+    category: 'calcinhas',
+    image: 'Calcinha marido apressado vermelha .JPG',
+    color: 'Vermelha'
+  },
+  {
+    id: 'calcinha-renda-strass',
+    name: 'Calcinha de Renda com Strass',
+    price: 25.00,
+    category: 'calcinhas',
+    image: 'calcinha-renda-strass.jpeg',
+    color: 'Preta, Vermelha e Rosa'
   },
   ];
   const sizes = ['P','M','G'];
