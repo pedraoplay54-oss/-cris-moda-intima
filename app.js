@@ -67,14 +67,6 @@
     color: 'Preto'
   },
   {
-    id: 'sutia-tomara-que-caia-nude',
-    name: 'Sutiã Tomara que Caia',
-    price: 47.99,
-    category: 'soutiens',
-    image: 'sutia-tomara-que-caia-nude.jpeg',
-    color: 'Nude'
-  },
-  {
   id: 'conjunto-preto-renda',
   name: 'Conjunto — Preto com Renda',
   price: 69.99,
@@ -89,6 +81,14 @@
     category: 'conjuntos',
     image: '90f4bd87-5a8c-4441-b812-5a36dd07ca7b_90F26563-6EFE-4F4C-A10B-EDAD3BB0834E.jpeg',
     color: 'Vermelho'
+  },
+  {
+    id: 'sutia-tomara-que-caia-nude',
+    name: 'Sutiã Tomara que Caia',
+    price: 47.99,
+    category: 'soutiens',
+    image: 'sutia-tomara-que-caia-nude.jpeg',
+    color: 'Nude'
   },
   {
     id: 'calcinha-apressadinha',
