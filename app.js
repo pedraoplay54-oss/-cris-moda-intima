@@ -19,6 +19,14 @@
     color: 'animal'
   },
   {
+    id: 'Conjunto-Catar-Renda-Branco-Amour',
+    name: 'Conjunto-Catar-Renda-Branco-Amour',
+    price: 69.99,
+    category: 'conjuntos',
+    image: 'Conjunto-Catar-Renda-Branco-Amour.JPG',
+    color: 'Branco'
+  },
+  {
     id: 'renda-vermelho',
     name: 'Conjunto — Vermelho',
     price: 69.99,
